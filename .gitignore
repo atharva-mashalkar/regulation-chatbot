@@ -64,3 +64,6 @@ tmp/
 *.zip
 *.rar
 data_level*.bin
+
+# Installed packages
+node_modules/
